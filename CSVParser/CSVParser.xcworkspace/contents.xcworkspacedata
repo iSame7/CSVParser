@@ -4,6 +4,9 @@
    <Group
       location = "group:Common"
       name = "Common">
+      <FileRef
+         location = "group:CSVParserKit/CSVParserKit.xcodeproj">
+      </FileRef>
    </Group>
    <Group
       location = "group:Features"

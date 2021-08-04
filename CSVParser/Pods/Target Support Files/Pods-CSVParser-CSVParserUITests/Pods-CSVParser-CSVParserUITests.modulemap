@@ -1,0 +1,6 @@
+framework module Pods_CSVParser_CSVParserUITests {
+  umbrella header "Pods-CSVParser-CSVParserUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

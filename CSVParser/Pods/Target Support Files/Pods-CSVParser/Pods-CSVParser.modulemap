@@ -1,0 +1,6 @@
+framework module Pods_CSVParser {
+  umbrella header "Pods-CSVParser-umbrella.h"
+
+  export *
+  module * { export * }
+}
